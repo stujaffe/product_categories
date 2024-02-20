@@ -1,1 +1,1 @@
-<?php include_once("product_categories_202402.txt"); ?>
+<?php include_once("product_categories_202402_adj.txt"); ?>
